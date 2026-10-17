@@ -1,0 +1,10 @@
+﻿{
+  "product": "L4XYVS SUITE",
+  "version": "1.0.0",
+  "channel": "stable",
+  "minimumVersion": "1.0.0",
+  "releaseNotes": "Initial update feed setup.",
+  "packageUrl": "",
+  "sha256": "",
+  "publishedAt": "2026-10-17"
+}
