@@ -1,11 +1,11 @@
 {
   "product": "L4XYVS SUITE",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "channel": "stable",
   "minimumVersion": "1.0.0",
-  "releaseNotes": "first update",
-  "packageUrl": "https://raw.githubusercontent.com/l4xyvs/L4XYVS-UPDATES/main/releases/L4XYVS_SUITE-1.2.1.zip",
-  "sha256": "242aa6b9fb293fa7e01bf97237fede22986357cf5cc8048f99d72aa4ca7a8300",
-  "signature": "m5M2VryT2DjzI08/JANkOAEkeEfgDeb1o7NEPnpkA4oSk/Wr2AhsRFaJYthWp/ToqbLJM2WG4t0pU5e/MuB/qU2bvO6naoRr86EQ6TeIosGsGwcNHRJREYpHBJLxoONVmBFxTtdtYp88BAgn9a/lETPqeh9Sqq0syrLDUFGEYVpHNx6ufDnXhi+omTaBEHsYmjOO3OrNKY8ooSEW0d5Mzcbg8sFdAVlNhtGbARXs6A5CnWym4+cXQA+twORfDSgXJQzag5SXehF5MWpOQutHFZmtis/Sm1bMSZylKon100eDbd9felcSTBPygcXprrIFoafeTB9gE1dDwbAujE1em7mjyG/EFiqDalXgtp/pcj3ltXO9SNehHbShkmQdzrRTmMCMK+H+PjJkD181xdwXrY2n5kMjY+t6KF+z5dN+7/4s9vGMgvWmqqL99dhIhwFn/KscGtLHQ1ctGSbpHzZ27hK0iYd/1Y/ecf1D9NTLmSVh4/PR2Hwc45uMTWSLHN+3",
-  "publishedAt": "2026-10-17"
+  "releaseNotes": "try update",
+  "packageUrl": "https://raw.githubusercontent.com/l4xyvs/L4XYVS-UPDATES/main/releases/L4XYVS_SUITE-1.2.2.zip",
+  "sha256": "ce0071fbb9bded4b342cf0429a4ab0554d9de4a69af7b97a64cd3073b317349a",
+  "signature": "GBL6ueOJ1hNyTMRjUWYqG9jtDIN+tJU3WGS59OqQPxMEnj0t1ejtsJeacX/a+4fdxAArIMSnDofqovknBhXCp+YnHI8Oqkj4Slv70iZtW5Qc+3aW90w/WHuzXiFvNwYeEl/bK8o9RQIgAA4zBuKwb7O1lt7a6IIP7I/LuCGT9ceRawGRLf9nYbfWWkpccV7C0dqPnNFoE0gHYwDdTFV8bw8TwtsgzKMLGyS18ooTmlh3NlLRT7NQmpG3yZMaCeSKFvUj9j/P4eVuodlJW8oeDyhHSNU+qU+iLHUS4cWrxI8CeUDgqllc3fdbv3kPa329wKe+GnQojGmPhPj2d/4d31Vc34E68lt8AUoKA44R9ZQzhRLNlc2rZrUb4pXthzXrwli8uV9gcQ7J1LhbtwFG7PP3HHyBlD8irAtkdvuwHxJK/1AAx5o8jekd9ou6wVa66v2pH6NWiZcXKFZyK7wDemZ3gQ1964h9METzEyETMvJahC/lHvL8CrZoGXhSQhQV",
+  "publishedAt": "2026-10-18"
 }
