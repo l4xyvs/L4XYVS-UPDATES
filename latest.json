@@ -1,11 +1,11 @@
 {
   "product": "L4XYVS SUITE",
-  "version": "1.2.2",
+  "version": "1.3.0",
   "channel": "stable",
   "minimumVersion": "1.0.0",
-  "releaseNotes": "try update",
-  "packageUrl": "https://raw.githubusercontent.com/l4xyvs/L4XYVS-UPDATES/main/releases/L4XYVS_SUITE-1.2.2.zip",
-  "sha256": "ce0071fbb9bded4b342cf0429a4ab0554d9de4a69af7b97a64cd3073b317349a",
-  "signature": "GBL6ueOJ1hNyTMRjUWYqG9jtDIN+tJU3WGS59OqQPxMEnj0t1ejtsJeacX/a+4fdxAArIMSnDofqovknBhXCp+YnHI8Oqkj4Slv70iZtW5Qc+3aW90w/WHuzXiFvNwYeEl/bK8o9RQIgAA4zBuKwb7O1lt7a6IIP7I/LuCGT9ceRawGRLf9nYbfWWkpccV7C0dqPnNFoE0gHYwDdTFV8bw8TwtsgzKMLGyS18ooTmlh3NlLRT7NQmpG3yZMaCeSKFvUj9j/P4eVuodlJW8oeDyhHSNU+qU+iLHUS4cWrxI8CeUDgqllc3fdbv3kPa329wKe+GnQojGmPhPj2d/4d31Vc34E68lt8AUoKA44R9ZQzhRLNlc2rZrUb4pXthzXrwli8uV9gcQ7J1LhbtwFG7PP3HHyBlD8irAtkdvuwHxJK/1AAx5o8jekd9ou6wVa66v2pH6NWiZcXKFZyK7wDemZ3gQ1964h9METzEyETMvJahC/lHvL8CrZoGXhSQhQV",
+  "releaseNotes": "New Tool - Auto Tracker added",
+  "packageUrl": "https://raw.githubusercontent.com/l4xyvs/L4XYVS-UPDATES/main/releases/L4XYVS_SUITE-1.3.0.zip",
+  "sha256": "5067f62a399368f3519acb06c6a9f5eeb2bd0e4b3a1102f5057d44590c181e03",
+  "signature": "GDwUaCTQh9c/r11A/xVvj9wG3da0LEa2wf/4R/Uq/H89q4lPzpYRc4eIfmKDaiMoBeSvZu2V4mQXCh8C8PKRYIlDy1NAt5Z4/IXyqOqxefHlMKihUAN+881MEhDJWafi4Ij/OwUo4mNP2EkfzCNM9w6WmdDT0Q0GKII8JG3SvKjN2mRv2ZnGRE3M3xGMG83BY5NkIPiIf9+cC3iWeGBOkzCxdMEglCIQzjBG/nMLrtbvN50StmBM+zBdn3GlhTZu6faRxdYeFovDluWKOMRZJIbLUV8mPCC2WKJOlFvtErc3bmvy16T5muR68Fh1xRap8qCuiiLHYzoypFdMVjvXwQRYkyvNIS/asgqyLGdYs+NBomVTa+gz02JH7OuRX+0T3997UWFoVMLViCU+4HoGyXWdSnHBFeDKII7Fg2ZTWXghVsaO12i9HS/lKLhf9EKNnAwNSFQIAcskOSur1uM5FkhsMcjZs5ooq8nN6NakA41QnplcOagoORACxrnrBhuw",
   "publishedAt": "2026-10-18"
 }
