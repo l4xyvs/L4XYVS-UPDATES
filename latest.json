@@ -1,11 +1,11 @@
 {
-  "product": "L4XYVS SUITE",
-  "version": "1.3.1",
-  "channel": "stable",
-  "minimumVersion": "1.0.0",
-  "releaseNotes": "Auto Tracker added",
-  "packageUrl": "https://raw.githubusercontent.com/l4xyvs/L4XYVS-UPDATES/main/releases/L4XYVS_SUITE-1.3.1.zip",
-  "sha256": "da0613d54aacc7d50792a706644225b7d57c760c6897ec87ddc655b2d4d613f9",
-  "signature": "UL2j6A/mTbvHhjn+Jqg3NNtsHj8JPGTIETNvOb0ioninxF7GRdJ2lNChpGveJc0w1c0DKx5bdC1mQJE51BrtCoIPg9cBGI1hpxj4yfG0FxRMtbDns4vdmzLZUgTZClp9MgWlC8zvsbErrj+VK/nc4hRCDM1FvPKx6WkZfbWPEva2FMEc7owXgPod6su1ZolAnSiE+xK7lqnBWf08T8Ti5DYXPmTA/my6InKBjGmN4Walj/9S+4fcPfHNUzqL5hRgGRxVtGax1rNZpdXRRSC4WTTpKFYtJ8TC6ncc+/9fvQ0n2KmkXvmO6pdhXdaLJQhi3+pyBk6fhknpbmLkIBvZyX/ee1Gp1K7XVjAZw45y5VjSAzPNPn/ziB+qaWEd9+8XyyVao7irVrTV6gS0jIQuHrqVulrIBY5Gde2yyQ/4uJ294ZilEUQFBIwo02ol+VK4X4JDxdlMoeIlHUpr4jSJK0SB5wAVX+dAccYpuUdtfntwGgH0mMi87xkfHRQbFwql",
-  "publishedAt": "2026-10-18"
+    "product":  "L4XYVS SUITE",
+    "version":  "1.3.6",
+    "channel":  "stable",
+    "minimumVersion":  "1.0.0",
+    "releaseNotes":  "Hardens signed updater package validation, rejects duplicate Windows paths and symlinks, and verifies manifest/trust-key consistency.",
+    "packageUrl":  "https://raw.githubusercontent.com/l4xyvs/L4XYVS-UPDATES/main/releases/L4XYVS_SUITE-1.3.6.zip",
+    "sha256":  "e448f4315ed193b9502bc730d5dfbc2c7a40e9179ce442af41f6e692f54cfcb2",
+    "signature":  "ld6hNU2QLk07SmUyDLfA6FBPM8MSmCNNCQ5q3AjlHnrXlVbS9NW4q1X2FfbkpmNcjRiKf+T3q4lV2lzxFIlDat2b3rrYabI5PMBpyTSrKqsO2nT/+Hc6yjnheEFhOd2gRdx8jtcYnsDUvJwWleDz6knlS3+udkEKKFLFl3+y7gc3ap4Bwe+oiYOJxqOUxr0PvJL0UfOYQVceq1vlLd6FkP3PLrB8DkPkc8xb97T3ob3deXZphX8z2zSqiohRAb31vFEmgENtmnn6vmECc2NL+4b6+jar4Sx4nqpomU+EOHwsbcGl0+XgVBsQ+lUs0EdO9Qp3sDXCe+o2IJY/ax1KdVBlq9Et+yeKiuOQxiQTOfGdg9NCB0kK9FZwSgEp2fMunciRvczEnmZqeTW8dpfPOO4yiu719JYtBYz/AHMFSUoCuX8qKTR719mvIqzebODo4Vi9EU9mR6+TCj8AzzTAcq56GJPoOy5xAZjInFDvErhd9+udI53ZNTTtiHIMWB92",
+    "publishedAt":  "2026-10-18"
 }
