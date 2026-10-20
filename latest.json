@@ -1,11 +1,11 @@
 {
   "product": "L4XYVS SUITE",
-  "version": "1.3.7",
+  "version": "1.3.8",
   "channel": "stable",
   "minimumVersion": "1.0.0",
-  "releaseNotes": "",
-  "packageUrl": "https://github.com/l4xyvs/L4XYVS-UPDATES/releases/download/v1.3.7/L4XYVS_SUITE-1.3.7.zip",
-  "sha256": "20560e5046eb8b420c5d3ff18a5146496cb82ea81014c9947dba3d44551cc37d",
-  "signature": "JnMuxS1FRcHMsdpO8UdOFM442cYTr1NwD71bhaU8DjSjsixRDEQtpJcO9hfyWCsBtdzicaUZq0N7etogtPWUazLUrAaKiD4xvZ0F4gRLJzJ+xuDMMe8QVZrWtzyLwUD0dFUSJtEypViUi7mIGy+8iDQsV2NNEWPvtq/5jA3jThj++/J/lvjAVUIlfJFe1LDmjcKDKq/5rqBRI7XfWI0qpPhCxit9KfQi0ExM6iqoyoX759xauhQ0D0CgDklm6FtQOn2lX8VbddCwjzMasSGzfwGhbeJXaIu/2Da4dfIR/qy1sXXbdJHwd/pBz2nxq7DshS4pfBAohnAEjbctGwlZKFULvm55hzNDCozDhOD7BmjaRUue0llVtY0rWqqastXVp/oBLbIsxLpwm6Jt+9zZjnJJ5EF0sDfNXPl0cUG1GjpiE1gZv8398YWXMmjvWEOUHENkiD+sOyK4H1b/mnnYtdPK4svlj+oPOr+smLMIboFQUvy77eDcovTnxrc15dq2",
-  "publishedAt": "2026-10-18"
+  "releaseNotes": "Updater network reliability and release security improvements.",
+  "packageUrl": "https://github.com/l4xyvs/L4XYVS-UPDATES/releases/download/v1.3.8/L4XYVS_SUITE-1.3.8.zip",
+  "sha256": "6a7c2499671af175e4663aa3c20119a1171b6c2426ba9d1f760d270a16089175",
+  "signature": "J0vHRLVBBKWyg8LihorOP+/RkWL33ZF5nFrCDOVpVYI+FUwqQcdFWrlmVbz6cylSZCIAaOIpMsm7/rJUZev/ugdLWjenyfEWTcFUA2oFAEXNe60DQDLXsOd/teM1v4n5Fj65TtTH9LBb6H8ocZt0R3vsltTec40N15GWTlUaqNFKDQmMlCLQ/bfQFN2QKMr8bl3+d1vf5xMETpD48ksyb2PpKiEochpdQC9z0Jk3qdN91XRZQtf/QueXCSxpc6h4jho5Pk6iQP2Y5+mNcg8c+gsxEqccQOZU8uo1nBphzmPlKygM3Ke6wX+vrLKwfQeucr/prXNcgRnxnxMJnw32HUFF8sdh8qdUuVc1EsavAnca6cBFMmtoFdqVxCo8AOfCPkpry7GUnw6hNQZW2U4j16mEX3hfdumN034IFYO9L6eRrtPYOaVAD/hMZImMqssMUrE4eOsM5eHAOBV+NHHNybL5VbtxYaxUGsf8QRSz7qL7fM4Zw62A1qQXH2I4U0yh",
+  "publishedAt": "2026-10-19"
 }
